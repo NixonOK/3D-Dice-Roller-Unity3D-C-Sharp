@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{44C8FAB7-2115-2EE7-B1D8-61671B152640}") = "Roll Dice Fiverr", "Assembly-CSharp.csproj", "{B10D0342-3168-028C-D034-3516394B93A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10D0342-3168-028C-D034-3516394B93A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10D0342-3168-028C-D034-3516394B93A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10D0342-3168-028C-D034-3516394B93A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10D0342-3168-028C-D034-3516394B93A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
